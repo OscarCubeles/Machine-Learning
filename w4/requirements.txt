@@ -1,0 +1,9 @@
+scipy==1.13.1
+pandas~=2.2.3
+scikit-learn
+numpy<2
+matplotlib
+seaborn
+tqdm
+tabulate
+umap-learn

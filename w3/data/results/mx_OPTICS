@@ -1,0 +1,6 @@
+metric,algorithm,silhouette_score,connectivity,cluster_density,#clusters,#noise_pts
+euclidean,ball_tree,-1,0.9995114802149487,{0: '6.269e-05'},1,0
+euclidean,brute,-1,0.9995114802149487,{0: '6.269e-05'},1,0
+cosine,brute,-1,0.36363636363636365,{0: '8.551e-05'},1,2037
+l1,ball_tree,-1,0.9995114802149487,{0: '6.269e-05'},1,0
+l1,brute,-1,0.9995114802149487,{0: '6.269e-05'},1,0
